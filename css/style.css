@@ -39,6 +39,12 @@ main{
     right: 26%;
     font-size: clamp(8px, 5vw, 25px);
 }
+.pokemon_number{
+    color: #3a444d;
+}
+.traco{
+    color: #3a444d;
+}
 .pokemon_name{
     color: #3a444d;
     text-transform: capitalize;
